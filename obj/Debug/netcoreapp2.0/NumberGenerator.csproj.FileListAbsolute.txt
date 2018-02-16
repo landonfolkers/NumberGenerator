@@ -1,0 +1,11 @@
+/Users/landonfolkers/Projects/NumberGenerator/bin/Debug/netcoreapp2.0/NumberGenerator.deps.json
+/Users/landonfolkers/Projects/NumberGenerator/bin/Debug/netcoreapp2.0/NumberGenerator.runtimeconfig.json
+/Users/landonfolkers/Projects/NumberGenerator/bin/Debug/netcoreapp2.0/NumberGenerator.runtimeconfig.dev.json
+/Users/landonfolkers/Projects/NumberGenerator/bin/Debug/netcoreapp2.0/NumberGenerator.dll
+/Users/landonfolkers/Projects/NumberGenerator/bin/Debug/netcoreapp2.0/NumberGenerator.pdb
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.csprojResolveAssemblyReference.cache
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.csproj.CoreCompileInputs.cache
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.AssemblyInfoInputs.cache
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.AssemblyInfo.cs
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.dll
+/Users/landonfolkers/Projects/NumberGenerator/obj/Debug/netcoreapp2.0/NumberGenerator.pdb
