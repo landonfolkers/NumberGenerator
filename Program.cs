@@ -17,8 +17,6 @@ namespace NumberGenerator
             while (true)
             {
 
-                //int correctNumber = 5;
-
                 Random random = new Random();
 
                 int correctNumber = random.Next(1, 10);
