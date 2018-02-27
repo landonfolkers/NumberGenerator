@@ -67,7 +67,7 @@ namespace NumberGenerator
 
         static void getAppInfo () {
             string appName = "Number Generator";
-            string appVersion = "1.0.0";
+            string appVersion = "1.1.0";
             string appAuthor = "Landon Folkers";
 
             Console.ForegroundColor = ConsoleColor.DarkRed;
