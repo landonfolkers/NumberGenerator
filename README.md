@@ -10,3 +10,10 @@ If they do not guess a number, or if they guess a character, the program will te
 
 If they guess correctly, the program will tell them that they are correct and ask them if they want to play again. 
 
+* Local installation. Make sure to have Visual Studio installed. Fork and clone repository and run in Visual Studio. 
+
+## Contact 
+* Email. landonfolkers@yahoo.com
+
+## Photo 
+* Photo is in repository. 
